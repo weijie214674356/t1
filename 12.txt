@@ -1,0 +1,6 @@
+serializable 只需在class implements serializable
+parcrlable是android 的api,解决serializable 序列化过程消耗资源的问题：因为serializable 会进行io流的操作。
+parcrlable使用会比较繁琐
+
+如果在运行时传递数据是使用parcrlable会好一些，效率高
+如果在写数据到sd卡时可以使用serializable
