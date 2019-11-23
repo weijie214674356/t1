@@ -6,3 +6,5 @@ parcrlable使用会比较繁琐
 如果在写数据到sd卡时可以使用serializable
 
 sdfasdfsafdf
+Sdlfjlkjlksdjflk
+sdfsdf
